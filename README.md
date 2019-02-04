@@ -15,4 +15,4 @@
 * Scipy
 
 
-###### This project is still under development. We are trying to reduce the mean absolute error between actual age and predicted age of a healthy person.
+
